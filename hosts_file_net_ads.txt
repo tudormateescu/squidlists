@@ -37514,7 +37514,6 @@ sndkorea.co.kr
 sndkorea.nowcdn.co.kr
 snimi-sam.justclick.ru
 snippets-stats.mozilla.org
-snippets.mozilla.com
 snonline.ivwbox.de
 snowplow-collector.sugarops.com
 soa.adition.com
