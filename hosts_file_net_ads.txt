@@ -19380,6 +19380,7 @@ akaads-espn.starwave.com
 akamai.bizrate.com
 akamai.smartadserver.com
 akillimeyveler.reklamagaci.com
+akm.playnow.guru
 akmnetwork.com
 aknoj.voluumtrk.com
 aksb-a.akamaihd.net
@@ -23296,6 +23297,7 @@ c.amazon-adsystem.com
 c.aol.com
 c.apple.com
 c.atdmt.com
+c.ato.mx
 c.baidu.com
 c.betrad.com
 c.bigmir.net
@@ -30483,12 +30485,14 @@ i.mxplayer.j2inter.com
 i.n.jwpltx.com
 i.nuseek.com
 i.offerx.co.uk
+i.playnow.guru
 i.plug.it
 i.po.st
 i.psa-ads.openx.com
 i.r1-cdn.net
 i.sahcdn.com
 i.sbitinbsjs.info
+i.serves.live
 i.simpli.fi
 i.socdm.com
 i.tapit.com
@@ -34441,6 +34445,7 @@ onclasrv.com
 onclickads.net
 onclickads2.net
 onclickrev.com
+onclkds.com
 one-time-offer.com
 one.123counters.com
 oneandonlynetwork.com
@@ -35246,6 +35251,7 @@ playboy.us.intellitxt.com
 player-services.goviral-content.com
 player.piksel.com
 playminigolf.com
+playnow.guru
 playtomic.com
 plb27.voluumtrk.com
 pleasedontslaymy.download
@@ -36153,6 +36159,7 @@ redirects.ero-advertising.com
 redirects.timesink.com
 reditions.net
 redmas.com
+redrct.site
 redshiftleads.steele.net
 redtube.yoshatia.com
 reduxmedia.com
@@ -46675,6 +46682,7 @@ www.omniture.com
 www.omtrdc.net
 www.onclickads.net
 www.onclickpredictiv.com
+www.onclkds.com
 www.oneandonlynetwork.com
 www.onelouder.com
 www.onestat.com
