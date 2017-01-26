@@ -21702,7 +21702,6 @@ blog-hits.com
 blog.adspaces.ero-advertising.com
 blog.chartboost.com
 blog.data.ero-advertising.com
-blog.disqus.com
 blog.duba.net
 blog.ero-advertising.com
 blog.intext.ero-advertising.com
@@ -38497,6 +38496,7 @@ sync.go.sonobi.com
 sync.livejasmin.com
 sync.mathtag.com
 sync.smarttds.ru
+sync.teads.tv
 sync.zenoviaexchange.com
 syndicate.payloadz.com
 syndicate.powerofads.com
