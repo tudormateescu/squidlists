@@ -40277,6 +40277,7 @@ uk.nedstat.net
 uk.nedstatpro.net
 uk.sitestat.com
 uk.static.planet49.com
+uk.websearchnow.net
 uk1.siteimprove.com
 ukaffiliates2.com
 ukbanners.com
@@ -47883,6 +47884,7 @@ zbxproxy01.bob.local.vmsn.de
 zbxproxy01.con.local.vmsn.de
 zc.zeroredirect1.com
 zc.zeroredirect2.com
+zc2.quebec-bin.com
 zd.zeroredirect1.com
 zdau-builder.122.2o7.net
 zdau-zdnetau.122.2o7.net
