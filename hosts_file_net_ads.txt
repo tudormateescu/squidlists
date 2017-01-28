@@ -16047,6 +16047,7 @@ adengine.theglobe.net
 adespresso.com
 adex.adchakra.net
 adex.admailtiser.com
+adexce.net
 adexcite.com
 adexit.com
 adexit.de
@@ -16530,6 +16531,7 @@ adrotator.se
 adrspain.go2cloud.org
 adrtrklnk.com
 adrunner.superstats.com
+adrunnr.com
 ads-03.tor.focusin.ads.targetnet.com
 ads-aa.wunderground.com
 ads-au.onelouder.com
@@ -33610,7 +33612,6 @@ my.aim4media.com
 my.applifier.com
 my.blueadvertise.com
 my.hellobar.com
-my.leadpages.net
 my.media-servers.net
 my.mobfox.com
 my.omniture.com
@@ -33783,6 +33784,7 @@ namestation.tenderapp.com
 nancy-mosca.us
 nandp.go2cloud.org
 nanigans.com
+nanoadexchange.com
 nanostats.nanopress.it
 naomi-thorn.us
 napster.searchwho.com
@@ -34197,6 +34199,7 @@ nzujq.voluumtrk.com
 o.addthis.com
 o.leadbolt.com
 o.sa.aol.com
+o.ss2.us
 o.swisscom.ch
 o.xbox.com
 o.yieldsquare.com
@@ -35947,7 +35950,6 @@ r.zeroredirect.com
 r.zeroredirect1.com
 r.zeroredirect2.com
 r0d2x.voluumtrk.com
-r1---sn-vgqsen7z.googlevideo.com
 r1.ace.advertising.com
 r1.beta.ace.advertising.com
 r1.computerbild.de
@@ -35955,27 +35957,20 @@ r1.cooleremail.com
 r1.fmpub.net
 r1.pcwelt.de
 r1.plugrush.com
-r1.sn-vgqsen7z.googlevideo.com
 r1.zedo.com
 r10.cooleremail.com
 r11.cooleremail.com
-r17---sn-vgqsenes.googlevideo.com
-r2---sn-vgqs7n7k.googlevideo.com
 r2.cooleremail.com
 r2.linksynergy.com
 r2.plugrush.com
-r20---sn-vgqs7ne7.googlevideo.com
 r20.rs6.net
-r20.sn-vgqs7ne7.googlevideo.com
 r2fjs.voluumtrk.com
 r2jmarketing.go2cloud.org
 r2v3n.voluumtrk.com
 r3.cooleremail.com
 r3.plugrush.com
-r4---sn-vgqs7nez.googlevideo.com
 r4.cooleremail.com
 r4.plugrush.com
-r4.sn-vgqs7nez.googlevideo.com
 r4zih.voluumtrk.com
 r5.cooleremail.com
 r5.plugrush.com
@@ -39589,6 +39584,7 @@ tracking.netrefer.com
 tracking.netzathleten-media.de
 tracking.nuasti.com
 tracking.olx-st.com
+tracking.perfecttoolmedia.com
 tracking.performancerevenues.com
 tracking.plattformad.com
 tracking.practicefusion.com
@@ -39815,6 +39811,7 @@ trk.dsv2trk.com
 trk.kissmetrics.com
 trk.m.libero.it
 trk.mailtoward.com
+trk.meacashtrk.com
 trk.mobile-setting.com
 trk.pswec.com
 trk.rrcpm.com
@@ -40277,6 +40274,7 @@ uk.nedstat.net
 uk.nedstatpro.net
 uk.sitestat.com
 uk.static.planet49.com
+uk.websearchnow.net
 uk1.siteimprove.com
 ukaffiliates2.com
 ukbanners.com
@@ -44190,6 +44188,7 @@ vstrk.com
 vt.adition.com
 vtncmn.com
 vtot.proxy.aol.com
+vtrack.larvtrk.com
 vtracking.in.com
 vtrtl.de
 vu.moatads.com
@@ -45069,6 +45068,7 @@ www.addinto.com
 www.addme.com
 www.addthis.com
 www.adelina-ashman.us
+www.adexce.net
 www.adexcite.com
 www.adexm.com
 www.adfest.com
@@ -46630,6 +46630,7 @@ www.n77adserv.com
 www.n78adserv.com
 www.n79adserv.com
 www.nadia-carlyle.us
+www.nanoadexchange.com
 www.naomi-thorn.us
 www.naturalsearchtoolresults.com
 www.navteq.com
@@ -47682,6 +47683,7 @@ xhealthmobiltools.112.2o7.net
 xiazai.duba.net
 xiti.com
 xl.topstat.com
+xl415.com
 xlite.counterpath.com
 xml.adtech.fr
 xml.fusionxml.com
@@ -47883,6 +47885,7 @@ zbxproxy01.bob.local.vmsn.de
 zbxproxy01.con.local.vmsn.de
 zc.zeroredirect1.com
 zc.zeroredirect2.com
+zc2.quebec-bin.com
 zd.zeroredirect1.com
 zdau-builder.122.2o7.net
 zdau-zdnetau.122.2o7.net
