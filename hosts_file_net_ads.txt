@@ -1023,6 +1023,7 @@
 4228414.fls.doubleclick.net
 4235225.fls.doubleclick.net
 4236808.fls.doubleclick.net
+4294919531.kt.mixmarket.biz
 4299553.fls.doubleclick.net
 43.6.87.194.dynamic.dol.ru
 4331660.fls.doubleclick.net
@@ -18439,6 +18440,7 @@ adserver.trafficsyndicate.com
 adserver.trellian.com
 adserver.tweakers.net
 adserver.ubiyoo.com
+adserver.unityads.unity3d.com
 adserver.veruta.com
 adserver.virgin.net
 adserver.weakgame.com
@@ -23714,6 +23716,7 @@ cdmagurus.us.intellitxt.com
 cdn-0.pics.dvdcdn.com
 cdn-akamai.mookie1.com
 cdn-ci34.actonsoftware.com
+cdn-highwinds.unityads.unity3d.com
 cdn-i.dmdentertainment.com
 cdn-static.liverail.com
 cdn-tags.mmondi.com
@@ -24245,6 +24248,7 @@ chip.pl.intellitxt.com
 choice.demdex.net
 choice.microsoft.com
 choices.truste.com
+chokoladsrv.net
 chope-co.b.appier.net
 christie-hanlon.us
 christie-pearlman.us
@@ -37044,7 +37048,6 @@ selina-scarlett.us
 selina-wimmer.us
 sellads.eu
 sem.shopexplorer.com
-sematext.com
 semrush.com
 send.microad.jp
 send4fun.com
@@ -45509,6 +45512,7 @@ www.chastity-stoltenberg.us
 www.checkm8.com
 www.cherish-mauk.us
 www.cheryl-edelstein.us
+www.chokoladsrv.net
 www.christi-canfield.us
 www.christie-hanlon.us
 www.chrystal-hollins.us
@@ -46972,7 +46976,6 @@ www.selfnetwork.com
 www.selina-krouse.us
 www.selipuquoe.com
 www.sellads.eu
-www.sematext.com
 www.semrush.com
 www.send4fun.com
 www.seniorttub.bid
