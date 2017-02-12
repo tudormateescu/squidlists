@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 322da7e1a77f679cd3a8a2c6a84f28ffe760ffb9
 101com.com
 101order.com
 123found.com
@@ -2363,8 +2359,3 @@ zeusclicks.com
 zintext.com
 zmedia.com
 zv1.november-lax.com
-<<<<<<< HEAD
-=======
-=======
->>>>>>> f9ba636dcbb42fe870cf0ad1c61eaf16b15ea34c
->>>>>>> 322da7e1a77f679cd3a8a2c6a84f28ffe760ffb9
