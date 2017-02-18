@@ -6653,7 +6653,7 @@ winiphone7.pl
 poke-zestaw.pl
 sexstream.pl
 twojapozyczka24h.pl
-zapiszto.pl #/2
+zapiszto.pl
 odbierzpokemon.pl
 file-folders.pl
 fspys.pl
@@ -6661,7 +6661,7 @@ hdsport-stream.pl
 insta-follow.pl
 fb-colors.pl
 skin-konkurs.pl
-youraticles.pl #/2#
+youraticles.pl
 win-skin.pl
 nikeswin.pl
 win-cosmetics.pl
@@ -30553,7 +30553,7 @@ secure.flashtalking.com
 settings-win.data.microsoft.com
 so.2mdn.net
 statsfe2.ws.microsoft.com
-telemetry.appex.bing.net #:443
+telemetry.appex.bing.net
 wes.df.telemetry.microsoft.com
 gads.pubmatic.com
 spclient.wg.spotify.com
@@ -30644,7 +30644,7 @@ watson.live.com
 watson.microsoft.com
 watson.ppe.telemetry.microsoft.com
 watson.telemetry.microsoft.com
-watson.telemetry.microsoft.com.nsatc.net ####
+watson.telemetry.microsoft.com.nsatc.net
 api.recommendedsw.com
 cdn.appround.biz
 cdn.bigspeedpro.com
