@@ -16835,6 +16835,7 @@ ads.dfiles.eu
 ads.dfiles.ru
 ads.dgonn.com
 ads.dhakatribune.com
+ads.diamonds
 ads.digital-digest.com
 ads.digitalhealthcare.com
 ads.digitalmedianet.com
@@ -39833,6 +39834,7 @@ trk.vaultrk.com
 trk.vidible.tv
 trk.vindicosuite.com
 trk02.gtrk.info
+trk1.opanw.com
 trk2it4.com
 trk4.com
 trkag1.com
